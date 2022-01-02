@@ -118,4 +118,4 @@ Press 'P' at any time to view the commands again.
 
 ## Gallery
 ### On Initialization
-![Initialization](Libraries\Sample.JPG)
+![Initialization](assets\images\Sample.JPG)
