@@ -118,4 +118,4 @@ Press 'P' at any time to view the commands again.
 
 ## Gallery
 ### On Sample
-![Sample](C:\Users\kirans\3D-Object-Modeler\assets\images\Sample.JPG)
+![Sample](assets\images\sample.png)
