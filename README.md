@@ -115,3 +115,7 @@ Press 'P' at any time to view the commands again.
   - Light sources can be selected and moved around
 - **Camera Movement relative to Camera Direction**
   - Movement of WASD,RF in Camera Mode will be along the Camera's direction, instead of moving along the X-Axis and Z-Axis in the world coordinate system.
+
+## Gallery
+### On Initialization
+![Initialization](Libraries\Sample.JPG)
