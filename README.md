@@ -1,8 +1,8 @@
 # 3D Object Modeler
 ## Group Members:
-Kenneth Mak, makk4, 001318946
+Kenneth Mak
 
-Kunalpreet Matharu, mathak1, 400258512
+Kunalpreet Matharu
 
 ## Compiling and Execution:
 Type `make` while in the main project directory to compile and automatically run `main`. To manually run without compiling, type `./main.exe` or `./main`, depending on OS.
