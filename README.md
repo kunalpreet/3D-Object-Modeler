@@ -117,5 +117,5 @@ Press 'P' at any time to view the commands again.
   - Movement of WASD,RF in Camera Mode will be along the Camera's direction, instead of moving along the X-Axis and Z-Axis in the world coordinate system.
 
 ## Gallery
-### On Initialization
-![Initialization](assets\images\Sample.JPG)
+### On Sample
+![Sample](assets\images\Sample.JPG)
