@@ -1,4 +1,4 @@
-# 3GC3 A4
+# 3D Object Modeler
 ## Group Members:
 Kenneth Mak, makk4, 001318946
 
