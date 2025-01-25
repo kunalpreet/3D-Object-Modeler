@@ -9,7 +9,7 @@ Type `make` while in the main project directory to compile and automatically run
 
 This has been tested to run on a Windows 10 OS.
 
-### Image
+### Demo
 
 ![Initialization - Rotated](assets/images/sample.png)
 
